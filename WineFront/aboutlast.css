@@ -1,0 +1,125 @@
+   #Last-about{
+    background-color: #C0A483;
+}
+.Last-wholee{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 60px;
+    padding: 40px;
+}
+.left-laster{
+    display: flex;
+    margin-left: 80px;
+}
+.last-icons i{
+    font-size: 50px;
+    color: #fff;
+}
+.history-txt h2{
+    align-items: center;
+    font-weight: 300;
+    color: #fff;
+    font-size: 30px;
+    line-height: 30px;
+    font-family: 'Marcellus SC', serif;
+}
+.history-txt p{
+    color: #fff;
+    font-family: 'Marcellus SC', serif;
+    font-size: 18px;
+}
+.history-txt{
+    margin-left: 17px;
+}
+.right-lettermain{
+    position: relative;
+}
+.vacib:hover{
+   background: #C0A483;
+   transition: .4s; 
+}
+.right-lettermain input{
+    padding: 25px 200px;
+} 
+.right-lettermain-1{
+    position: relative;
+}
+.right-lettermain-1 button{
+    border: 0;
+    padding: 0 40px;
+    background: #C0A483;
+    height: 55px;
+    line-height: 55px;
+    font-family: 'Marcellus SC', serif;
+    letter-spacing: .1em;
+    cursor: pointer;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff;
+    position: absolute;
+    top: 0px;
+    right: 10px;
+}
+.vacib2:hover{
+    background: #000000;
+    transition: .4s; 
+ }
+.right-lettermain-1 input{
+    padding: 30px 200px;
+}
+  .seven .seven-top {
+    background-image: url(https://wpbingosite.com/wordpress/kowine/wp-content/uploads/2021/05/banner10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0 0 33px;
+    height: 380px;
+    text-align: center;
+  }
+  .seven .seven-top .seven-toper {
+    margin: 0 0 33px;
+    color: white;
+    font-family: "Marcellus", serif;
+  }
+  .seven .seven-top .seven-toper i {
+    font-size: 48px;
+    margin: 0 0 13px 0;
+  }
+
+
+  
+  .seven .seven-top .like-placeholder .enter-mail {
+    width:28%;
+    padding: 4.5px 0;
+  }
+  .seven .seven-top .like-placeholder .sub-mail {
+    transition: 0.4s;
+    margin: 0 24px;
+    padding: 5px 25px;
+  }
+  .seven .seven-top .like-placeholder .sub-mail:hover {
+    color: #c0a483;
+    border-color: #c0a483;
+  }
+  .seven .seven-top .like-placeholder input {
+    background-color: rgba(255, 0, 0, 0);
+    border: none;
+    border-bottom: 2px solid white;
+    color: white;
+    outline: none;
+    font-family: "Marcellus", serif;
+    font-weight: lighter;
+    
+  }
+  .seven .seven-top .like-placeholder input::-moz-placeholder {
+    color: white;
+  }
+  .seven .seven-top .like-placeholder input:-ms-input-placeholder {
+    color: white;
+  }
+  .seven .seven-top .like-placeholder input::placeholder {
+    color: white;
+  }
+  
+
+  
